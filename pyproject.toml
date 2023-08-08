@@ -1,3 +1,4 @@
 [build-system]
 requires = ["setuptools>=42", "wheel"]
+long_description_content_type='text/x-rst',
 build-backend = "setuptools.build_meta"
