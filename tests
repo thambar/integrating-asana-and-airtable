@@ -1,1 +1,8 @@
+# test_math_operations.py
+from math_operations import add, subtract
 
+def test_addition():
+    assert add(2, 3) == 5
+
+def test_subtraction():
+    assert subtract(5, 3) == 2
