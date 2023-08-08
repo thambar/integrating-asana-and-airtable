@@ -9,7 +9,7 @@ ASANA_HEADERS = {
 
 # Airtable API access
 AIRTABLE_API_KEY = 'patUPFsGHavAEzQmE'
-AIRTABLE_BASE_ID = "YOUR_AIRTABLE_BASE_ID"
+AIRTABLE_BASE_ID = 'appSsd4IywdfO0E7Z'
 AIRTABLE_TABLE_NAME = "Asana Tasks"
 
 # Create an Airtable client
