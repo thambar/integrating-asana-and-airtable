@@ -3,8 +3,8 @@ from flask import Flask, request, jsonify
 
 app = Flask(__name__)
     
-AIRTABLE_API_KEY = 'your_airtable_api_key'
-AIRTABLE_BASE_ID = 'your_airtable_base_id'
+AIRTABLE_API_KEY = 'patUPFsGHavAEzQmE'
+AIRTABLE_BASE_ID = 'appSsd4IywdfO0E7Z'
 
 @app.route('/webhook', methods=['POST'])
 def asana_webhook():
